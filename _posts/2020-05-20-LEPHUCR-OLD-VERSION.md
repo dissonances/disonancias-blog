@@ -1,4 +1,7 @@
-# LEE ESTO PARA HACER UN CAMBIO REAL
+---
+title: Lee Esto para Hacer un Cambio Real
+subtitle: En este libro encontrarás todo lo necesario para una transformación tecnomaterial de la realidad.
+---
 
 > Todo pensamiento es estratégico. *Tiqqun*
 

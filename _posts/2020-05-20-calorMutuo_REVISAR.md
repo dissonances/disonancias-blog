@@ -1,8 +1,9 @@
-% Calor Mutuo or the seeds for a cooperative party (On how to build a long term movement for post-scarcity in the world economies)
-% Angel Moma
-% April 2019
+---
+title: Calor Mutuo or the seeds for a cooperative party
+subtitle: On how to build a long term movement for post-scarcity in the world economies | April 2019
+---
 
-###Thanks to Max Haiven, Cassie Thornton and the guys from PostFilia who organized the political imagination meeting at UNAM’s Museo Universitario de Arte Contemporáneo.
+### Thanks to Max Haiven, Cassie Thornton and the guys from PostFilia who organized the political imagination meeting at UNAM’s Museo Universitario de Arte Contemporáneo.
 After Wikipolítica’s failure in creating self-autonomous political grassroots, many of us have been more concerned about the highly important role that labor has for any mobilization attempt. At least for the long run, if a movement cannot work cooperatively — which means democracy in the workplace and common profit for the workers — all those capital asymmetries found in [Tyranny of Structurelessness](URL "https://www.jofreeman.com/joreen/tyranny.htm") and [Tyranny of Tyranny](URL "https://theanarchistlibrary.org/library/cathy-levine-the-tyranny-of-tyranny") will remain.
 A couple of weeks before I quit the organization I spent my political attention to for the last 5 years, I went to the [political imagination meeting](URL "https://postfilia.com/2019/01/03/imaginacion-politica-encuentro-internacional/") and realized how so necessary is to get a political position. Calor Mutuo is a really great example of humble and compromise in the Mexican activism context and that’s why I decided to incubate Disonancias with them, my friends. This week I could finally order a little bit many of my thoughts on what is going on right now and which could be some options for us to do some real changes, so here we go.
 For me, Calor Mutuo is seeding a cooperative party for many reasons. We are creating processes and protocols so people can build social structures for fair shares and democracy and that will be part of the mainstream political agenda eventually, in no more than 3 years. 

@@ -1,16 +1,32 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre La Partida
+subtitle: Operaciones tecnocríticas
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+NOSOTRAS: SOMOS PERSONAS ANIMADAS A IMAGINAR Y A CULTIVAR OTROS MUNDOS POSIBLES
+NUESTRO MANTRA: ORGANIZAR EL PESIMISMO
+LLEVAMOS DESDE 2015 PENSANDO Y RECOPILANDO TECNOLOGÍAS DE ACCIÓN COLECTIVA
+QUEREMOS DIVULGAR Y PRODUCIR ESPECULACIONES TECNOLÓGICAS ESTRATÉGICAMENTE
+CREEMOS QUE HACIENDO AUSTERO SE PUEDE HACER MUCHO
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Conoce disonancias
 
-What else do you need?
+Un medio abierto para producir y generar diálogos para la construcción de una alternativa política organizada.
 
-### my history
+### La Partida
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Label de código abierto. Estética solarpunk feminista. De filosofía tecnocrítica.
+
+### Centro de Estudios *Especulaciones estratégicas*
+
+*Think Tank*. Se encarga de la proliferación estratégica de fuerzas políticas progresistas en diversos territorios y esferas. Busca al mismo tiempo una disputa por el imaginario, es decir, una batalla cultural, mientras que desarrolla estructuras políticas comunes que permite la comunicación y retroalimentación de proyectos académicos, de activismo local, electorales, mediáticos, tecnológicos y económicos. Produce informes de investigación.
+- KEYMAKER es un proyecto de investigación financiado por el Centro de Estudios
+- Proyecto de investigación anual
+- Investigación prospectiva estratégica 
+- Formación política (currícula educativa)
+- Journal *Speculative Technologies* (revista académica)
+- Plataforma de organización política en línea (código público):
+- Red social (interfaz para discusión y gestión democrática)
+Wiki (repositorio copyfair editorializable)
+- Calor Mutuo: hacia un ecosistema de cooperativas

@@ -1,4 +1,6 @@
-# Manual de incubación de Calor mutuo
+---
+title: Manual de incubación de Calor mutuo
+---
 
 El presente manual contiene recursos de Calor mutuo. 
 Ruta crítica,

@@ -1,4 +1,6 @@
-# LEARNING GOOGLE ANALYTICS
+---
+title: Implementación de Google Analytics en Jekyll
+---
 
 This suppose to be the code for #Jekyll.
 
