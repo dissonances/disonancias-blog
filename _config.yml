@@ -12,8 +12,7 @@ author: La Partida
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Acerca de: "aboutme"
-  # Acerca de: "pages/aboutme"
+  Acerca de: "about"
   Entérate:
     - LEPHUCR: "LEPHUCR"
     # - Tecnocrítica: "#"
@@ -45,7 +44,8 @@ social-network-links:
   #facebook: 
   #github: 
   #twitter: 
-  rss: false
+  rss: true
+  telegram: disonancias
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -58,7 +58,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
 #  calendly: yourname
 
 # --- General options --- #
@@ -67,6 +66,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
+  telegram: true
   linkedin: false
 
 # How to display the link to your website in the footer
@@ -87,9 +87,10 @@ navbar-col: "#ffffff"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#ffffff"
-link-col: "deeppink"
+link-col: "#ed0783"
 # link-col: "#008AFF"
-hover-col: "black"
+hover-col: "#800045"
+# hover-col: "black"
 footer-col: "#ffffff"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
