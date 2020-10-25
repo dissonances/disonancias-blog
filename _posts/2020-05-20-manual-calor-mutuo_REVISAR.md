@@ -2,7 +2,7 @@
 title: Manual de incubación de Calor mutuo
 ---
 
-El presente manual contiene recursos de Calor mutuo. 
+El presente manual contiene recursos de Calor mutuo.
 Ruta crítica,
 Imágenes (infografías)
 
@@ -14,34 +14,35 @@ Calor mutuo bla bla...
 
 #### Por qué las cooperativas
 
-
 #### ¿Qué ventajas tiene el modelo de franquicia?
 
 ## Cómo funcionamos
 
 ### Ruta crítica
 
-https://infoautonomos.eleconomista.es/ideas-de-negocio/lean-startup-producto-minimo-viable/
+<https://infoautonomos.eleconomista.es/ideas-de-negocio/lean-startup-producto-minimo-viable/>
 
 #### Documentos sobre modelos de organización
 
 **Índice de debates sobre modelos de organización**
-https://medium.com/virtual-teams-for-systemic-change/lean-agile-teal-how-does-sociocracy-fit-in-b1be0a50e701
-http://janhoglund.eu/scrum-vs-sociocracy/
+* <https://medium.com/virtual-teams-for-systemic-change/lean-agile-teal-how-does-sociocracy-fit-in-b1be0a50e701>
+* <http://janhoglund.eu/scrum-vs-sociocracy/>
 
 Flujo de trabajo:
+
 - Junta de Backlog
-Roles (product owner y SM)
+  Roles (product owner y SM)
 
 ## Primeros pasos
 
 Descarga y lee sobre el negocio de franquicias cooperativas en México.
 Sube los siguientes documentos:
+
 - Cv de la organización
 - Formulario de modelo de negocios
 - Formato firmado de responsabilidad jurídica
- 
-Mándanos tu documentación a  [dirección] y te avisaremos de la siguiente convocatoria.
+
+Mándanos tu documentación a [dirección] y te avisaremos de la siguiente convocatoria.
 
 ## Casos de éxito
 
@@ -60,12 +61,6 @@ Patreon para una franquicia de cooperativa cultural.
 ## Ayuda
 
 ## Extras
-
-
-
-
-
-
 
 # NOTAS DISONANCIAS CON CALOR MUTUO
 
@@ -87,12 +82,8 @@ Slow media o guerrilla cinema?
 Cada video invita a invertir en Patreon.
 
 Entender el desarrollo de los productos en distintos tiempos:
+
 1. Audiovisual
-2. Editorial 
+2. Editorial
 3. Eventos
 4. Replicabilidad por franquicia
-
-
-
-
-

@@ -13,4 +13,4 @@ Ayúdanos con los gastos fijos con [Patreon](https://www.patreon.com/disonancias
 
 ¡Suscríbete a nuestro newsletter!
 Síguenos en:
-Telegram: @disonancias
+Telegram: [@disonancias](https://t.me/disonancias)
