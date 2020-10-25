@@ -13,9 +13,9 @@ author: La Partida
 
 navbar-links:
   Acerca de: "about"
+  Blog: "/"
   Entérate:
     - LEPHUCR: "LEPHUCR"
-    - Blog: "/"
     # - Tecnocrítica: "#"
   #   - Noticias: "https://www.google.com"
   Contacto: "contact"
