@@ -4,13 +4,13 @@ title: Sobre La Partida
 subtitle: Operaciones tecnocríticas
 ---
 
-NOSOTRAS: SOMOS PERSONAS ANIMADAS A IMAGINAR Y A CULTIVAR OTROS MUNDOS POSIBLES
-NUESTRO MANTRA: ORGANIZAR EL PESIMISMO
-LLEVAMOS DESDE 2015 PENSANDO Y RECOPILANDO TECNOLOGÍAS DE ACCIÓN COLECTIVA
-QUEREMOS DIVULGAR Y PRODUCIR ESPECULACIONES TECNOLÓGICAS ESTRATÉGICAMENTE
-CREEMOS QUE HACIENDO AUSTERO SE PUEDE HACER MUCHO
+Nosotras: somos personas animadas a imaginar y a cultivar otros mundos posibles
+Nuestro mantra: organizar el pesimismo
+Llevamos desde 2015 pensando y recopilando tecnologías de acción colectiva
+Queremos divulgar y producir especulaciones tecnológicas estratégicamente
+Creemos que haciendo austero se puede hacer mucho
 
-## Conoce disonancias
+## Conoce Disonancias
 
 Un medio abierto para producir y generar diálogos para la construcción de una alternativa política organizada.
 

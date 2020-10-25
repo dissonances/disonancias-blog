@@ -13,9 +13,10 @@ author: La Partida
 
 navbar-links:
   Acerca de: "aboutme"
+  # Acerca de: "pages/aboutme"
   Entérate:
-    - LEPHUCR: "#"
-    - Tecnocrítica: "#"
+    - LEPHUCR: "LEPHUCR"
+    # - Tecnocrítica: "#"
   #   - Noticias: "https://www.google.com"
   # Dona: "#"
 
