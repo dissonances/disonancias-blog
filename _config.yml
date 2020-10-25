@@ -18,7 +18,8 @@ navbar-links:
     - LEPHUCR: "LEPHUCR"
     # - Tecnocrítica: "#"
   #   - Noticias: "https://www.google.com"
-  # Dona: "#"
+  Contact: "contact"
+  Dona: "https://www.patreon.com/disonancias"
 
 # --- Logo --- #
 
