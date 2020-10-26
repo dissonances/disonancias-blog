@@ -44,11 +44,7 @@ Entre los personajes recurrentes se encuentran Tabby, la antifa disfrazada de ga
 
 Contrapoints enfrenta de frente el problema de "imagen" que tiene la militancia. Lo que nadie se atreve a decir a riesgo de ser llamado activista impuro, por haber simpatizado con la causa del gran capital: **el marketing**.
 
-<img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/DKh73TEX0AEfAjW-683x1024-683x1024.jpg" alt="" width="200"/>
-
-<img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/DKh72i7WAAAiAdP-683x1024-683x1024.jpg" alt="" width="200"/>
-
-<img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/DKh70IBX0AAjGTm-683x1024-683x1024.jpg" alt="" width="200"/>
+<img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/DKh73TEX0AEfAjW-683x1024-683x1024.jpg" alt="" width="200"/><img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/DKh72i7WAAAiAdP-683x1024-683x1024.jpg" alt="" width="200"/><img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/DKh70IBX0AAjGTm-683x1024-683x1024.jpg" alt="" width="200"/>
 
 Ella resume en frases provocativas la imagen en los medios de comunicación a menudo asociada con la "izquierda de la izquierda", que ella llama el "problema de relaciones públicas" de la izquierda radical:
 
