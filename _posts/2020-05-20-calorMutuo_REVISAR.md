@@ -1,6 +1,8 @@
 ---
 title: Calor Mutuo or the seeds for a cooperative party
 subtitle: On how to build a long term movement for post-scarcity in the world economies | April 2019
+tags:
+    - calor mutuo
 ---
 
 ### Thanks to Max Haiven, Cassie Thornton and the guys from PostFilia who organized the political imagination meeting at UNAM’s Museo Universitario de Arte Contemporáneo.

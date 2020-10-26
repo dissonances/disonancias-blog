@@ -1,5 +1,9 @@
 ---
 title: Contrapoints, conquista de YouTube y comunicación política
+tags:
+    - contrapoints
+    - estética
+    - estrategia política
 ---
 
 ![](https://eunomia.media/wp-content/uploads/2020/08/contra1.jpg)

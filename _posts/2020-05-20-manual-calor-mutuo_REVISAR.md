@@ -1,5 +1,7 @@
 ---
 title: Manual de incubación de Calor mutuo
+tags:
+    - calor mutuo
 ---
 
 El presente manual contiene recursos de Calor mutuo.
