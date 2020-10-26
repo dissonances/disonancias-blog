@@ -1,5 +1,6 @@
 ---
 title: Contrapoints, conquista de YouTube y comunicación política
+excerpt: ¿Sólo la extrema derecha sería capaz de frustrar insidiosamente las reglas del debate y persuadir a un público cada vez más numeroso de sus ideas?
 tags:
     - contrapoints
     - estética
