@@ -257,7 +257,9 @@ img {
 }
 
 .navbar-custom .nav-item.dropdown.show {
-  background: rgba(0, 0, 0, 0.2);
+  /* background: rgba(0, 0, 0, 0.2); */
+  border: solid 0 1px 1px 1px  #404040 ;
+  ;
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
