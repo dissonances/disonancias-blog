@@ -38,7 +38,7 @@ El público de Contrapoints es inteligente. En cualquier caso, su discurso evoca
 
 Su mayor técnica es exponer sus diversas opiniones contradictorias sobre temas _tocados_ haciendo que interactúen a través de diferentes personajes.
 
-## El problema de relaciones públicas del comunismo.
+## El problema de relaciones públicas del comunismo
 
 Entre los personajes recurrentes se encuentran Tabby, la antifa disfrazada de gato, y Justine, la esteta despectiva y lasciva que lo juzga todo a través del prisma del estilo que exuda la gente y su gusto por las cosas bonitas y brillantes. Esta Justine que le gustaría **_hypear_ el _Manifiesto Comunista_ con una cubierta de _Vaporwave_** (rosa y azul de neón, con imágenes de delfines, hojas de palma, el logo de Windows 98 y bustos de mármol) (como hicieron los neonazis al popularizar otros símbolos, más sutiles que la esvástica o el símbolo de las SS, que se supone permiten a sus partidarios reconocerse a sí mismos mientras avanzan disfrazados).
 
@@ -77,7 +77,7 @@ Los _alt-derechosos_ se caracterizan precisamente por el cinismo táctico y los 
 
 <img src="https://www.assoeunomia.fr/wp-content/uploads/2020/06/800px-Overton_Window_diagram.svg-20200326185434268-1-602x1024.png" alt="ventana de Overton" width="200"/>
 
-Conceptualmente, quizás la técnica más importante de esta lista es quizás la última: **trabajando en una formulación aceptable de ideas radicales**. Estas técnicas funcionan porque los centristas reutilizan sin saberlo los "buenos" argumentos y comienza el proceso de popularización de las ideas anteriormente excluidas, ampliando así la _[ventana de Overton](https://www.franceculture.fr/sociologie/des-lobbyistes-aux-populistes-la-fabrique-de-la-fenetre-doverton)_ (concepto que indica opiniones "aceptables", aceptables para una población determinada).
+Conceptualmente, quizás la técnica más importante de esta lista es quizás la última: **trabajando en una formulación aceptable de ideas radicales**. Estas técnicas funcionan porque los centristas reutilizan sin saberlo los "buenos" argumentos y comienza el proceso de popularización de las ideas anteriormente excluidas, ampliando así la _[ventana de Overton](https://es.wikipedia.org/wiki/Ventana_de_Overton)_ (concepto que indica opiniones "aceptables", aceptables para una población determinada).
 
 ### "Los Guerreros de la Justicia Social en los medios de comunicación parecen buenas personas pasando por un episodio embarazoso."
 
@@ -171,9 +171,9 @@ Evita usar la culpa para demostrar la racionalidad de una cierta sobriedad ambie
 
 De hecho, nunca se ha sabido que el pan de oro añada sabor, así que ¿qué otra satisfacción puede haber en comer esta pizza dorada que un placer regresivo a corto plazo?
 
-Por ejemplo, la frase del video: \"Más ingresos conducen a más decepcionantes pizzas doradas" puede llevar a un deseo de un sistema no estadounidense para el bienestar de todos.
+Por ejemplo, la frase del video: "Más ingresos conducen a más decepcionantes pizzas doradas" puede llevar a un deseo de un sistema sin ultraricos (estamos en el contexto estadounidense) para el bienestar de todxs.
 
-Este análisis probablemente no será suficiente para los teóricos de la ecología radical, y los sacrificios de comodidad que tendrán que ser impuestos o elegidos por la burguesía son probablemente mayores que el simple rechazo de las pizzas con pan de oro. Pero un video puede popularizar ciertos razonamientos políticos.
+Este análisis probablemente no será suficiente para lxs teóricxs de la ecología radical, y los sacrificios de comodidad que tendrán que ser impuestos o elegidos por la burguesía son probablemente mayores que el simple rechazo de las pizzas con pan de oro. Pero un video puede popularizar ciertos razonamientos políticos.
 
 ---
 
