@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: DISONANCIAS
+title: Disonancias
 
 # Short description of your site
 description: Blog de tecnocrítica
@@ -12,17 +12,20 @@ author: La Partida
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Acerca de: "about"
+  Blog: "/"
+  Entérate:
+    - LEPHUCR: "2020-05-20-LEPHUCR"
+    # - Tecnocrítica: "#"
+  #   - Noticias: "https://www.google.com"
+  Contacto: "contact"
+  Dona: "https://www.patreon.com/disonancias"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -40,9 +43,10 @@ round-avatar: true
 social-network-links:
   #email: "someone@example.com"
   #facebook: 
-  #github: 
   #twitter: 
-  rss: false
+  github: dissonances
+  telegram: disonancias
+  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -55,7 +59,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
 #  calendly: yourname
 
 # --- General options --- #
@@ -64,11 +67,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  telegram: true
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
+url-pretty: "Disonancias.org"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -80,15 +84,20 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#fdfbf5"
+navbar-col: "#ffffff"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-col: "#fdfbf5"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#fdfbf5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+page-col: "#ffffff"
+link-col: "#ed0783"
+# link-col: "#008AFF"
+# hover-col: "#800045"
+hover-col: "#ed0783"
+# hover-col: "black"
+footer-col: "#ffffff"
+# footer-text-col: "#777777"
+footer-text-col: "black"
+# footer-link-col: "#404040"
+footer-link-col: "#ed0783"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -96,6 +105,63 @@ footer-link-col: "#404040"
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
+
+# --- You don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Mexico_City"
+markdown: kramdown
+highlighter: rouge
+# permalink: /:year-:month-:day-:title/
+paginate: 10
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
+      readtime: true # add estimated reading time on all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Group pages in nice repo
+# include: ['_pages']
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+permalink: pretty
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
+
 
 # --- Web Statistics Section --- #
 
@@ -159,52 +225,3 @@ date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
-
-
-# --- You don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
-
-kramdown:
-  input: GFM
-
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
-
-# Exclude these files from production site
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
