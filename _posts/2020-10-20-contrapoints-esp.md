@@ -151,7 +151,7 @@ Gracias a una mezcla de ternura, madurez intelectual y capital cultural, Contrap
 
 ### Una maestría casi masoquista del _tutorial de maquillaje_
 
-- planificó sin disculpas la creación de su personaje de "estrella de rock americana", que indudablemente impuso en la Internet hoy en día. El énfasis en el yo, [puede desagradar](https://repeindre.info/2019/03/10/en-finir-aves-les-rock-stars/). El perfecto y casi masoquista dominio del _tutorial de maquillaje_ y su torturada relación con el narcisismo y la autoimagen, cuando no fascina, puede cansarte.
+Contrapoints planificó sin disculpas la creación de su personaje de "estrella de rock americana", que indudablemente impuso en la Internet hoy en día. El énfasis en el yo, [puede desagradar](https://repeindre.info/2019/03/10/en-finir-aves-les-rock-stars/). El perfecto y casi masoquista dominio del _tutorial de maquillaje_ y su torturada relación con el narcisismo y la autoimagen, cuando no fascina, puede cansarte.
 
 Una paradoja que ha señalado voluntariamente, se le ha acusado de un sesgo hacia lo espectacular, lo que contribuiría a reforzar la actual tiranía de la apariencia femenina de las mujeres cis y trans. Sus posiciones detalladas sobre cuestiones de transfeminismo la han llevado a [abordar los mecanismos de "cancelación"](https://www.youtube.com/watch?v=OjMPJVmXxV8) (prohibir a una figura pública de una comunidad por sus opiniones y acciones supuestas o reales) [en un largo video.](https://www.youtube.com/watch?v=OjMPJVmXxV8)
 
@@ -159,7 +159,7 @@ Una paradoja que ha señalado voluntariamente, se le ha acusado de un sesgo haci
 
 La ecología de Contrapoints se aborda especialmente al describir sus [ambigüedades frente al deseo de opulencia](http://arsindustrialis.org/economie-libidinale), y puede carecer de pistas para la imaginación post-consumista. Contrapoints explica que desean presumir de la abundancia de un "socialismo del champán", por qué no reconciliarlo con una especie de ["lujo comunitario"](https://fr.wikipedia.org/wiki/Kristin_Ross). Es cierto que, desde un punto de vista puramente comercial, es más fácil vender un futuro hecho de [comunismo de lujo totalmente automatizado](https://www.contretemps.eu/fully-automated-luxury-communism/) que exigir la adhesión entusiasta de toda la población a una etapa de adaptación forzada a un estilo de vida semiazadista: lo que, de estos dos extremos, es ecológica y políticamente realista sigue siendo una cuestión abierta.
 
-#### **_Transmitido_**
+#### **_Triggered_**
 
 En uno de los videos, una mujer humanista bastante bienintencionada aborrece la imagen de frugalidad que obtiene del anarquismo o la ecología radical. Me gustan las cosas brillantes. ¿Es eso malo?"
 
