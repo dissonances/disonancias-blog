@@ -1,0 +1,3 @@
+[submodule "disonancias_repo"]
+	path = disonancias_repo
+	url = https://github.com/dissonances/disonancias_repo
