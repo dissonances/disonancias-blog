@@ -1,0 +1,75 @@
+
+.wordart-container {
+    transform: scaleX(2) scaleY(3.5) skewY(-5deg) rotateZ(-3deg) translateZ(0);
+left: 2.5em;
+top: 0.5em;
+position: absolute;  
+}
+  .wordart-content {
+
+    font-family: Impact, sans-serif;
+    color: transparent;
+    /* background: linear-gradient(to bottom left,  #6900cc, #cb00cc); */
+    background: linear-gradient(
+      to left,
+      #cb00cc,
+      #0b2be0,
+      #329941,
+      #f7f658,
+      #f16412,
+      #cb00cc
+      /* #aa04a7 */
+    );;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* -webkit-text-stroke: 0.016em #d2a2fe; */
+    -webkit-text-stroke: 0.016em grey;
+    -webkit-background-clip: text;
+  }
+  .wordart-content::before {
+    /* @include pseudo; */
+    position: absolute;
+    content: "Disonancias";
+    /* transform: scaleY(1.5) skewY(-8deg) rotateZ(-3deg) translateZ(0); */
+  
+    font-family: Impact, sans-serif;
+    color: transparent;
+    /* background: linear-gradient(#6900cc, #cb00cc); */
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    z-index: -1;
+    text-shadow: 1px 0 0 #6900cc, 0 1px 0 #cb00cc, 2px 1px 0.35px #6900cc,
+      1px 2px 0.35px #cb00cc, 3px 2px 0.35px #6900cc, 2px 3px 0.35px #cb00cc,
+      4px 3px 0.35px #6900cc, 3px 4px 0.35px #cb00cc, 5px 4px 0.35px #6900cc,
+      4px 5px 0.35px #cb00cc, 6px 5px 0.35px #6900cc, 5px 6px 0.35px #cb00cc,
+      7px 6px 0.35px #6900cc, 6px 7px 0.35px #cb00cc;
+  }
+  
+/* 
+  .page-heading {
+    transform:  skewY(3deg) rotateZ(2deg) translateZ(0);
+  } */
+  /* .page-heading {
+    font-family: Impact, sans-serif;
+    color: transparent;
+    background: linear-gradient(to bottom left,  #6900cc, #cb00cc, #cb00cc);
+    background: linear-gradient(
+      to left,
+      #cb00cc,
+      #0b2be0,
+      #329941,
+      #f7f658,
+      #f16412,
+      #cb00cc,
+      #aa04a7
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 0.016em #d2a2fe;
+    -webkit-background-clip: text;
+  } */
