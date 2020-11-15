@@ -1,0 +1,163 @@
+// 21 disposition 11 color or 9
+
+@mixin pseudo ($content: attr(data-content)) {
+    position: absolute;
+    content: $content;
+  }
+  
+  * {
+    box-sizing: border-box;
+    &::before, &::after {
+      box-sizing: border-box;
+    }
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    background: #fff;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+  
+  .container {
+    margin: auto;
+    padding: 0 1rem;
+    max-width: 20rem;
+    width: 100%;
+  }
+  
+  .wordart {
+    position: relative;
+    display: inline-block;
+    .preview {
+      margin: 0 0 2rem;
+      padding: 2rem;
+    }
+  }
+  
+  h1 {
+    font-size: 9vmin;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  section {
+    position: relative;
+   
+    &.style-nine {
+      .wordart {
+        transform: scale(0.9, 1.65) rotate(-3deg) skewY(-3deg) translateZ(0);
+        .preview {
+          font-family: Impact, sans-serif;
+          font-weight: 700;
+          color: transparent;
+          background: linear-gradient(#6900cc, #cb00cc);
+          -webkit-text-fill-color: transparent;
+          -webkit-text-stroke: 0.016em #d2a2fe;
+          -webkit-background-clip: text;
+          background-clip: text;
+          &::before {
+            @include pseudo;
+            z-index: -1;
+             -webkit-text-stroke: transparent;
+            text-shadow: 0.094em 0.063em #adadff;
+          }
+        }
+      }
+    }
+    &.style-eleven {
+      .wordart {
+        transform: scaleY(1.65);
+        .preview {
+          font-weight: 900;
+          color: transparent;
+          background: linear-gradient(to left, #a104ad, #0b2be0, #329941, #f7f658, #f16412, #e92153, #aa04a7);
+          -webkit-text-fill-color: transparent;
+          -webkit-text-stroke: 0.016em #eaeaea;
+          -webkit-background-clip: text;
+          background-clip: text;
+          letter-spacing: 0.1rem;
+          &::before {
+            @include pseudo;
+            z-index: -1;
+            color: #cdcdcd;
+            -webkit-text-fill-color: #cdcdcd;
+            -webkit-text-stroke: transparent;
+            transform: rotateX(63deg) skew(60deg) scaleY(0.65) translate3d(2em, -2.15em, -1em);
+          }
+        }
+      }
+    }
+    &.style-twentyone {
+      .wordart {
+        transform: scaleY(1.5) skewY(-8deg) rotateZ(-3deg) translateZ(0);
+        .preview {
+          font-family: Impact, sans-serif;
+          color: transparent;
+          background: linear-gradient(to bottom left, #fee601, #fee601 15%, #fe4201);
+          -webkit-text-fill-color: transparent;
+          -webkit-background-clip: text;
+          background-clip: text;
+          &::before {
+            @include pseudo;
+            z-index: -1;
+            text-shadow: 1px 0 0 #813300, 0 1px 0 #c14d00, 2px 1px 0.35px #813300, 1px 2px 0.35px #c14d00, 3px 2px 0.35px #813300, 2px 3px 0.35px #c14d00, 4px 3px 0.35px #813300, 3px 4px 0.35px #c14d00, 5px 4px 0.35px #813300, 4px 5px 0.35px #c14d00, 6px 5px 0.35px #813300, 5px 6px 0.35px #c14d00, 7px 6px 0.35px #813300, 6px 7px 0.35px #c14d00;
+          }
+        }
+      }
+    }
+    &.style-twentytwo {
+      .wordart {
+        transform: scale(0.75, 1.65) translateZ(0);
+        .preview {
+          font-weight: 900;
+          background: linear-gradient(#ccdfec 0%, #7a97bc 20%, #8aacc6 30%, #fff 50%, #b8908f 51%, #80302d 52%, #b84d4a 55%, #e7cfc9 75%, #916e66 100%);
+          -webkit-text-fill-color: transparent;
+          -webkit-background-clip: text;
+          background-clip: text;
+          letter-spacing: -0.2vw;
+          &::before {
+            @include pseudo;
+            z-index: -1;
+            text-shadow: 1px 0 0 #000, 0 1px 1px #a1a1a1, 2px 1px 1px #000, 1px 2px 1px #a1a1a1, 3px 2px 1px #000, 2px 3px 1px #a1a1a1, 4px 3px 1px #000, 3px 4px 1px #a1a1a1, 5px 4px 1px #000, 4px 5px 1px #a1a1a1, 6px 5px 1px #000, 5px 6px 1px #a1a1a1, 7px 6px 1px #000, 6px 7px 1px #a1a1a1, 8px 7px 1px #000, 7px 8px 1px #a1a1a1, 9px 8px 1px #000, 8px 9px 1px #a1a1a1, 10px 9px 0 #000;
+          }
+        }
+      }
+    }
+  }
+  
+  textarea, select {
+    position: relative;
+    display: block;
+    z-index: 1;
+    font-family: inherit;
+    font-size: 0.875rem;
+    width: 100%;
+    padding: 0.6rem 1rem;
+    appearance: none;
+    background: transparent;
+    border: 1px solid #d1d1d1;
+    box-shadow: none;
+    transition: border-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+    &:focus {
+      outline: 0;
+      border-color: #396fb9;
+      box-shadow: 0 0 0 2px #b3cdf4;
+    }
+  }
+  
+  select#wordart-style {
+    margin-bottom: 1rem;
+    background: #fff url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="%23727272" viewBox="0 0 20 20"><path d="M5 8l6 6 6-6z"/></svg>') right 0.5rem center no-repeat;
+    padding: 0.75rem 1.5rem 0.75rem 0.75rem;
+  }
+  
+  textarea {
+    height: 4rem;
+  }
