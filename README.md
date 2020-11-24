@@ -21,6 +21,8 @@ Además de una tienda.
 
 - https://github.com/inukshuk/jekyll-scholar
 - https://github.com/kurtsson/jekyll-multiple-languages-plugin
+- for the store: https://github.com/snipcart/snipcart-jekyll
+- https://www.awwwards.com/las-20-mejores-tipografias-de-google-fonts.html
 
 # DISONANCIAS: PLANEACIÓN 2020
 
