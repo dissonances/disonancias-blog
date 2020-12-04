@@ -166,10 +166,10 @@ plugins:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-P2GRF09HE4"
+# gtag: "G-P2GRF09HE4"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-P2GRF09HE4"
 
 # Google Tag Manager ID
 #gtm: ""
