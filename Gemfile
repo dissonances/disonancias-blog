@@ -6,6 +6,6 @@ gem 'jekyll-multiple-languages-plugin'
 
 gem "kramdown-parser-gfm"
 
-
 gemspec
 
+gem "webrick", "~> 1.7"
